@@ -1,0 +1,92 @@
+[
+  {
+    "sensor_id": 1,
+    "tipo": "Temperatura",
+    "valor": 22.0,
+    "timestamp": "2026-01-13 14:41:00"
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "Temperatura",
+    "valor": 28.6,
+    "timestamp": "2026-01-13 14:41:00"
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "Temperatura",
+    "valor": 17.0,
+    "timestamp": "2026-01-13 14:41:00"
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "Umidade",
+    "valor": 36.9,
+    "timestamp": "2026-01-13 14:41:00"
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "Umidade",
+    "valor": 63.7,
+    "timestamp": "2026-01-13 14:41:00"
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "Umidade",
+    "valor": 76.5,
+    "timestamp": "2026-01-13 14:41:00"
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "Pressao",
+    "valor": 999.1,
+    "timestamp": "2026-01-13 14:41:00"
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "Pressao",
+    "valor": 981.2,
+    "timestamp": "2026-01-13 14:41:00"
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "Pressao",
+    "valor": 1018.7,
+    "timestamp": "2026-01-13 14:41:00"
+  },
+  {
+    "sensor_id": 4,
+    "tipo": "Luminosidade",
+    "valor": 916.4,
+    "timestamp": "2026-01-13 14:41:00"
+  },
+  {
+    "sensor_id": 4,
+    "tipo": "Luminosidade",
+    "valor": 541.1,
+    "timestamp": "2026-01-13 14:41:00"
+  },
+  {
+    "sensor_id": 4,
+    "tipo": "Luminosidade",
+    "valor": 767.0,
+    "timestamp": "2026-01-13 14:41:00"
+  },
+  {
+    "sensor_id": 5,
+    "tipo": "CO2",
+    "valor": 541.9,
+    "timestamp": "2026-01-13 14:41:00"
+  },
+  {
+    "sensor_id": 5,
+    "tipo": "CO2",
+    "valor": 940.8,
+    "timestamp": "2026-01-13 14:41:00"
+  },
+  {
+    "sensor_id": 5,
+    "tipo": "CO2",
+    "valor": 620.0,
+    "timestamp": "2026-01-13 14:41:00"
+  }
+]
