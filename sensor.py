@@ -113,5 +113,5 @@ class GerenciadorSensores:
         return {sensor_id: sensor.tipo for sensor_id, sensor in self.sensores.items()}
     
     def validar_sensor_id(self, sensor_id: int) -> bool:
-        """Método auxiliar para validar se um sensor_id existe"""
+        """validar se um sensor_id existe"""
         return isinstance(sensor_id, int) and sensor_id in self.sensores

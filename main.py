@@ -43,7 +43,7 @@ def menu_relatorios():
     return input("Escolha um sensor: ")
 
 def main():
-    """Função principal do sistema"""
+    
     try:
         # Inicialização dos componentes
         gerenciador = GerenciadorSensores()
